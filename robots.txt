@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://monuceria.github.io/sitemap
+Sitemap: https://monuceria.github.io/app/sitemap
+Sitemap: https://monuceria.github.io/assets/sitemap
+Sitemap: https://monuceria.github.io/css/sitemap
+Sitemap: https://monuceria.github.io/includes/sitemap
+Sitemap: https://monuceria.github.io/item/sitemap
+Sitemap: https://monuceria.github.io/src/sitemap
